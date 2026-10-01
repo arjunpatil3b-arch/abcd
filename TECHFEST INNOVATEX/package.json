@@ -1,0 +1,10 @@
+{
+  "name": "coast-trace",
+  "version": "1.0.0",
+  "private": true,
+  "description": "COAST//TRACE dashboard. Run with: node trace-server.js",
+  "main": "trace-server.js",
+  "scripts": {
+    "start": "node trace-server.js"
+  }
+}
